@@ -45,14 +45,5 @@
       <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>Test Blog</title>
-      <link>/posts/test_post/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/test_post/</guid>
-      <description>Test the blog function</description>
-    </item>
-    
   </channel>
 </rss>

@@ -26,30 +26,18 @@
     <loc>/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/image/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/test/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/test_post/</loc>
-    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/</loc>
+  </url><url>
+    <loc>/categories/</loc>
   </url><url>
     <loc>/authors/example-author/</loc>
   </url><url>
     <loc>/authors/hugo-authors/</loc>
   </url><url>
+    <loc>/posts/</loc>
+  </url><url>
     <loc>/series/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
